@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<b>I'm 3D Modelor</b>
+<ul>
+  
+<b> I'm 3D Modelor </b>
+
+  <li></li>
+</ul>
 
 <div align=center>
 

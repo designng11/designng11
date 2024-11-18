@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://youtube.com/@naguk?si=qGYPi1-ricqxTVql)](https://youtube.com/@naguk?si=qGYPi1-ricqxTVql)
+[[![Insta Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://youtube.com/@naguk?si=qGYPi1-ricqxTVql)](https://youtube.com/@naguk?si=qGYPi1-ricqxTVql)
+](https://img.shields.io/badge/INSTAGRAM-%23E4405F?logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fnamgyueye%2F
+)

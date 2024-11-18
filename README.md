@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://youtube.com/@naguk?si=qGYPi1-ricqxTVql)](https://youtube.com/@naguk?si=qGYPi1-ricqxTVql)
-[![Instagram Badge](https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=flat-square&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fnamgyueye%2F
-)]
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://youtube.com/@naguk?si=qGYPi1-ricqxTVql)](https://youtube.com/@naguk?si=qGYPi1-ricqxTVql)
+[![Instagram Badge](https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=flat-square&logo=instagram&link=https://www.instagram.com/namgyueye/)](https://www.instagram.com/namgyueye/)
 

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div align>
+<div align=right>
 
 [![Youtube Badge](https://img.shields.io/badge/YOUTUBE-ff0000?style=flat-square&logo=youtube&link=https://youtube.com/@naguk?si=qGYPi1-ricqxTVql)](https://youtube.com/@naguk?si=qGYPi1-ricqxTVql)
 

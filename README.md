@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <ul>
-  
-<b> I'm 3D Modelor </b>
-
-  <li></li>
+  <b> I'm 3D Modelor </b>
+    <ul>
+      <li> I used Maya, Cinema 4D, Blender Etc. </li>
+    </ul>
 </ul>
 
 <div align=center>

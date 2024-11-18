@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 <div align=right>
 
-[![Youtube Badge](https://img.shields.io/badge/YOUTUBE-ff0000?style=flat-square&logo=youtube&link=https://youtube.com/@naguk?si=qGYPi1-ricqxTVql)](https://youtube.com/@naguk?si=qGYPi1-ricqxTVql)
-
-
-[![Instagram Badge](https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/namgyueye/)](https://www.instagram.com/namgyueye/)
+[![Youtube Badge](https://img.shields.io/badge/YOUTUBE-ff0000?style=flat-square&logo=youtube&link=https://youtube.com/@naguk?si=qGYPi1-ricqxTVql)](https://youtube.com/@naguk?si=qGYPi1-ricqxTVql) [![Instagram Badge](https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/namgyueye/)](https://www.instagram.com/namgyueye/)
 
 <div>

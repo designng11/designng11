@@ -30,16 +30,6 @@
     </ul>
 </ul>
 
-https://support.marvelousdesigner.com/hc/theming_assets/01J280C7WE5WYCZGW5WAKTTTTE
-https://e7.pngegg.com/pngimages/390/378/png-clipart-zbrush-digital-sculpting-human-anatomy-logo-cad-3d-computer-graphics-text-thumbnail.png
-https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-painter-icon.png
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png
-https://patchstorage.com/wp-content/uploads/2021/02/TouchDesigner_logo.png
-
-
 <ul>
   <b>🗂️ Career 🗂️</b>
    <ul>

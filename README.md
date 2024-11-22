@@ -22,7 +22,7 @@
   <b>⚒️ Using Program ⚒️</b>
     <ul>
      <p> <li><b> Main 3D Program </b></li>
-       <img src="https://seeklogo.com/images/A/autodesk-maya-logo-F485ED50BF-seeklogo.com.png" alt="maya logo" width="30px"> Maya | <img src="https://1000logos.net/wp-content/uploads/2020/08/Cinema-4D-Logo.png" alt="c4d logo" width="50px"> Cinema 4D | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" alt="blend logo" width="30px"> Blender | <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png" alt="hip logo" width="30px"> Houdini </p>
+       <img src="https://seeklogo.com/images/A/autodesk-maya-logo-F485ED50BF-seeklogo.com.png" alt="maya logo" width="10px"> Maya | <img src="https://1000logos.net/wp-content/uploads/2020/08/Cinema-4D-Logo.png" alt="c4d logo" width="50px"> Cinema 4D | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" alt="blend logo" width="30px"> Blender | <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png" alt="hip logo" width="30px"> Houdini </p>
      <p> <li><b> Sub 3D Program </b></li>
       <img src="https://bluegfx.com/wp-content/uploads/2023/03/Logo-_Marvelous-design.svg?w=640" alt="md logo" width="30px"> Marvelous Designer | <img src="https://logosandtypes.com/wp-content/uploads/2020/08/zbrush.png" alt="zb logo" width="30px"> Zbrush | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-painter-icon.png" alt="sp logo" width="30px"> Substance Painter </p>
       <p><li><b> Main 2D Program </b></li>

@@ -22,8 +22,7 @@
   <b>⚒️ Using Program ⚒️</b>
     <ul>
      <p> <li><b> Main 3D Program </b></li>
-       <img src="https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.pinimg.com%2F736x%2F55%2Faa%2F3b%2F55aa3b6d479bb1b18c9cb23d26740bef.jpg&type=sc960_832" alt="maya logo" width="30px"><br>
-Maya | Cinema 4D | Blender | Houdini </p>
+       <img src="https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.pinimg.com%2F736x%2F55%2Faa%2F3b%2F55aa3b6d479bb1b18c9cb23d26740bef.jpg&type=sc960_832" alt="maya logo" width="30px"><br> Maya | Cinema 4D | Blender | Houdini </p>
      <p> <li><b> Sub 3D Program </b></li>
        Marvelous Designer | Zbrush | Substance Painter </p>
       <p><li><b> Main 2D Program </b></li>

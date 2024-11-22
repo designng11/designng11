@@ -79,7 +79,7 @@
 </ul>
 
 <ul>
-  <b> Contact </b>
+  <b>🤝 Contact 🤝</b>
     <ul>
       📞Call - 010-9748-0508
     </ul>

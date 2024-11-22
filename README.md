@@ -22,7 +22,7 @@
   <b>⚒️ Using Program ⚒️</b>
     <ul>
      <p> <li><b> Main 3D Program </b></li>
-       <img src="https://seeklogo.com/images/A/autodesk-maya-logo-F485ED50BF-seeklogo.com.png" alt="maya logo" width="30px"> Maya | <img src="https://blog.kakaocdn.net/dn/ck5Yro/btrrKItcuc7/kqKuTQz9hyfnuxShAjBWpK/C4D-LOGO.png?attach=1&knm=img.png" alt="maya logo" width="30px"> Cinema 4D | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" alt="maya logo" width="30px"> Blender | <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png" alt="maya logo" width="30px"> Houdini </p>
+       <img src="https://seeklogo.com/images/A/autodesk-maya-logo-F485ED50BF-seeklogo.com.png" alt="maya logo" width="30px"> Maya | <img src="https://banner2.cleanpng.com/20190619/ey/kisspng-cinema-4d-logo-vector-graphics-3d-computer-graphic-free-logo-vectors-adl-kullancnn-software-a-1713885945588.webp" alt="maya logo" width="30px"> Cinema 4D | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" alt="maya logo" width="30px"> Blender | <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png" alt="maya logo" width="30px"> Houdini </p>
      <p> <li><b> Sub 3D Program </b></li>
        Marvelous Designer | Zbrush | Substance Painter </p>
       <p><li><b> Main 2D Program </b></li>

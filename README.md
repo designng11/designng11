@@ -22,17 +22,24 @@
   <b>⚒️ Using Program ⚒️</b>
     <ul>
      <p> <li><b> Main 3D Program </b></li>
-       <img src="https://seeklogo.com/images/A/autodesk-maya-logo-F485ED50BF-seeklogo.com.png" alt="maya logo" width="30px"> Maya | <img src="https://1000logos.net/wp-content/uploads/2020/08/Cinema-4D-Logo.png" alt="maya logo" width="50px"> Cinema 4D | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" alt="maya logo" width="30px"> Blender | <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png" alt="maya logo" width="30px"> Houdini </p>
+       <img src="https://seeklogo.com/images/A/autodesk-maya-logo-F485ED50BF-seeklogo.com.png" alt="maya logo" width="30px"> Maya | <img src="https://1000logos.net/wp-content/uploads/2020/08/Cinema-4D-Logo.png" alt="c4d logo" width="50px"> Cinema 4D | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" alt="blend logo" width="30px"> Blender | <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png" alt="hip logo" width="30px"> Houdini </p>
      <p> <li><b> Sub 3D Program </b></li>
-       Marvelous Designer | Zbrush | Substance Painter </p>
+      <img src="https://support.marvelousdesigner.com/hc/theming_assets/01J280C7WE5WYCZGW5WAKTTTTE" alt="md logo" width="30px"> Marvelous Designer | <img src="https://e7.pngegg.com/pngimages/390/378/png-clipart-zbrush-digital-sculpting-human-anatomy-logo-cad-3d-computer-graphics-text-thumbnail.pngE" alt="zb logo" width="30px"> Zbrush | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-painter-icon.png" alt="sp logo" width="30px"> Substance Painter </p>
       <p><li><b> Main 2D Program </b></li>
-       After Effects | Photoshop | Illustrator | Touch Designer </p>
+      <img src="https://support.marvelousdesigner.com/hc/theming_assets/01J280C7WE5WYCZGW5WAKTTTTE" alt="ae logo" width="30px"> After Effects | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="ps logo" width="30px"> Photoshop | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png" alt="ai" width="30px"> Illustrator | <img src="https://patchstorage.com/wp-content/uploads/2021/02/TouchDesigner_logo.png" alt="td logo" width="30px"> Touch Designer </p>
     </ul>
 </ul>
-https://seeklogo.com/images/A/autodesk-maya-logo-F485ED50BF-seeklogo.com.png
-https://blog.kakaocdn.net/dn/ck5Yro/btrrKItcuc7/kqKuTQz9hyfnuxShAjBWpK/C4D-LOGO.png?attach=1&knm=img.png
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png
-https://upload.wikimedia.org/wikipedia/commons/1/15/Houdini3D_icon.png
+
+https://support.marvelousdesigner.com/hc/theming_assets/01J280C7WE5WYCZGW5WAKTTTTE
+https://e7.pngegg.com/pngimages/390/378/png-clipart-zbrush-digital-sculpting-human-anatomy-logo-cad-3d-computer-graphics-text-thumbnail.png
+https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-painter-icon.png
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png
+https://patchstorage.com/wp-content/uploads/2021/02/TouchDesigner_logo.png
+
+
 <ul>
   <b>🗂️ Career 🗂️</b>
    <ul>

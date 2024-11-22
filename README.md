@@ -44,26 +44,39 @@
     <ul>
       <li> 2022 
         <ul>
-          <li> 출판사 "삐아제" 동화책 CG 참여 </li>
+          <li> 출판사 "삐아제" | 동화책 CG 참여 </li>
         </ul>
       </li>
       <li> 2023 
         <ul>
-          <li> 언론사 "포커스인천" 메인 디자인, PD </li>
-          <li> 관악구청 메타버스 전시 메인 3D 모델링 </li>
-          <li> NCT 127 "Fact Check" MV 2D 어시스트 </li>
-          <li> NCT 127 "Be There For Me" MV 2D 어시스트</li>
+          <li> 언론사 "포커스인천" | 메인 디자인, PD </li>
+          <li> 관악구청 메타버스 전시 | 메인 3D 모델링 </li>
+          <li> NCT 127 "Fact Check" MV | 2D 어시스트 </li>
+          <li> NCT 127 "Be There For Me" MV | 2D 어시스트</li>
         </ul>
       </li>
       <li> 2024 
         <ul>
-          <li> Short Film "CHAMP" 3D 모델러 </li>
-          <li> Seventeen Track Sampler 3D 모델러 </li>
-          <li> 82 Major "CHOKE" MV 3D 모델러 </li>
-          <li> XG ALX "SAR" MV Lead Unreal Artist </li>
-          <li> XG ALX "IYKYK" MV 3D 모델러 및 FX Artist </li>
-          <li> 중앙대학교 예술공학부 졸업전시홍보영상 "All at Once" VFX </li>
-          <li> FiftyFifty "Gravity" MV 3D 모델러 </li>
+          <li> Short Film "CHAMP" | 3D 모델러 </li>
+          <li> Seventeen Track Sampler | 3D 모델러 </li>
+          <li> 82 Major "CHOKE" MV | 3D 모델러 </li>
+          <li> XG ALX "SAR" MV | Lead Unreal Artist </li>
+          <li> XG ALX "IYKYK" MV | 3D 모델러 및 FX Artist </li>
+          <li> 중앙대학교 예술공학부 졸업전시홍보영상 "All at Once" | VFX </li>
+          <li> FiftyFifty "Gravity" MV | 3D 모델러 </li>
+        </ul>
+      </li>
+    </ul>
+</ul>
+
+<ul>
+  <b> Exhibition </b>
+    <ul>
+      <li> 2022 
+        <ul>
+          <li> 서울영상고등학교 졸업 전시회 "FINDER" | 기획 및 작가 참여 </li>
+          <li> 돈의문박물관마을 "《돈의문 프리즘》展 " | 작가 참여 </li>
+          <li> 중앙대학교 X 파동 기획 전시 "잃어버린 순가들" | 큐레이터, 기획, 작가 참여 </li>
         </ul>
       </li>
     </ul>

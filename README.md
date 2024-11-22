@@ -5,7 +5,7 @@
 </div>
 
 <h2>
-  안녕하세요. 중앙대학교 예술공학부 24학번에 재학 중인 김남규입니다.    
+  안녕하세요. 중앙대학교 예술공학부 24학번에 재학 중인 김남규👋입니다.    
 </h2>
 
 저는 현재 Aedia Studio라는 회사에서 프리랜서로 일하며, 여러 많은 외주들과 함께 학업을 병행하고 있습니다.
@@ -16,10 +16,10 @@
 저는 개인적인 목표로 석박사까지 따고 싶습니다. 이유는 나중에 자식을 낳고 자식한테 배움이 부족하지 않은 아버지로 남고 싶지 않습니다.
 
 앞으로 더 열심히 정진해 나갈 것이며, 다른 이들보다 반 걸음씩이라도 먼저 나가는 것이 목표입니다.
-앞으로 더 멋있고 예쁜 작업물 보여드릴테니 잘부탁드리겠습니다
+앞으로 더 멋있고 예쁜 작업물 보여드릴 테니 잘 부탁드리겠습니다
 
 <ul>
-  <b> Using Program </b>
+  <b>⚒️ Using Program ⚒️</b>
     <ul>
       <li><b> Main 3D Program </b></li>
        Maya | Cinema 4D | Blender | Houdini 
@@ -31,7 +31,7 @@
 </ul>
 
 <ul>
-  <b> Career </b>
+  <b>🗂️ Career 🗂️</b>
    <ul>
      <li> 서울영상고등학교 16기 졸업 (2021 ~ 2024) </li>
      <li> 중앙대학교 예술공학부 재학 (2024 ~) </li>
@@ -40,14 +40,14 @@
 </ul>
 
 <ul>
-  <b> Project </b>
+  <b>📜 Project 📜</b>
     <ul>
-      <li> 2022 
+      <li> 2️⃣0️⃣2️⃣2️⃣
         <ul>
           <li> 출판사 "삐아제" | 동화책 CG 참여 </li>
         </ul>
       </li>
-      <li> 2023 
+      <li> 2️⃣0️⃣2️⃣3️⃣
         <ul>
           <li> 언론사 "포커스인천" | 메인 디자인, PD </li>
           <li> 관악구청 메타버스 전시 | 메인 3D 모델링 </li>
@@ -55,7 +55,7 @@
           <li> NCT 127 "Be There For Me" MV | 2D 어시스트</li>
         </ul>
       </li>
-      <li> 2024 
+      <li> 2️⃣0️⃣2️⃣4️⃣
         <ul>
           <li> Short Film "CHAMP" | 3D 모델러 </li>
           <li> Seventeen Track Sampler | 3D 모델러 </li>
@@ -70,7 +70,7 @@
 </ul>
 
 <ul>
-  <b> Exhibition </b>
+  <b>🕯️ Exhibition 🕯️</b>
     <ul>
         <li> 서울영상고등학교 졸업 전시회 "FINDER" | 기획 및 작가 참여 </li>
        <li> 돈의문박물관마을 "《돈의문 프리즘》展 " | 작가 참여 </li>
@@ -81,10 +81,10 @@
 <ul>
   <b> Contact </b>
     <ul>
-      Call - 010-9748-0508
+      📞Call - 010-9748-0508
     </ul>
     <ul>
-      Email - designng11@gmail.com
+      📧Email - designng11@gmail.com
     </ul>
 </ul>
 

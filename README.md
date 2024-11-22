@@ -13,13 +13,11 @@
     <ul>
       <b> Main 3D Program </b>
       <li> Maya | Cinema 4D | Blender | Houdini </li>
-      
       <b> Sub 3D Program </b>
       <li> Marvelous Designer | Zbrush | Substance Painter </li>  
-      
       <b> Main 2D Program </b>
       <li> After Effects | Photoshop | Illustrator | Touch Designer </li>
-    
+    </ul>
 </ul>
 
 <ul>

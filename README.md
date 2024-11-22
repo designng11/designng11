@@ -9,9 +9,15 @@
 </h2>
 
 <ul>
-  <b> I'm 3D Modelor </b>
+  <b> Using Program </b>
     <ul>
-      <li> I used Maya, Cinema 4D, Blender Etc. </li>
+      <b> Main 3D Program </b>
+      <li> Maya | Cinema 4D | Blender | Houdini </li>
+      <b> Sub 3D Program </b>
+      <li> Marvelous Designer | Zbrush | Substance Painter </li>  
+      <b> Main 2D Program </b>
+      <li> After Effects | Photoshop | Illustrator | Touch Designer </li>
+    
     </ul>
 </ul>
 
@@ -36,17 +42,19 @@
         <ul>
           <li> 언론사 "포커스인천" 메인 디자인, PD </li>
           <li> 관악구청 메타버스 전시 메인 3D 모델링 </li>
+          <li> NCT 127 "Fact Check" MV 2D 어시스트 </li>
+          <li> NCT 127 "Be There For Me" MV 2D 어시스트</li>
         </ul>
       </li>
       <li> 2024 
         <ul>
           <li> Short Film "CHAMP" 3D 모델러 </li>
           <li> Seventeen Track Sampler 3D 모델러 </li>
-          <li> 82 Major MV "CHOKE" 3D 모델러 </li>
-          <li> XG MV "SAR" Lead Unreal Artist </li>
-          <li> XG MV "IYKYK" 3D 모델러 및 FX Artist </li>
+          <li> 82 Major "CHOKE" MV 3D 모델러 </li>
+          <li> XG ALX "SAR" MV Lead Unreal Artist </li>
+          <li> XG ALX "IYKYK" MV 3D 모델러 및 FX Artist </li>
           <li> 중앙대학교 예술공학부 졸업전시홍보영상 "All at Once" VFX </li>
-          <li> FiftyFifty MV "Gravity" 3D 모델러 </li>
+          <li> FiftyFifty "Gravity" MV 3D 모델러 </li>
         </ul>
       </li>
     </ul>

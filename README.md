@@ -81,9 +81,6 @@
 <ul>
   <b>🤝 Contact 🤝</b>
     <ul>
-      📞Call - 010-9748-0508
-    </ul>
-    <ul>
       📧Email - designng11@gmail.com
     </ul>
 </ul>

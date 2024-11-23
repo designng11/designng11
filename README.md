@@ -81,7 +81,7 @@
 <ul>
   <b>🤝 Contact 🤝</b>
     <ul>
-      🌏insta - @kimnamqyu
+      🌏Insta - @kimnamqyu
     </ul>
     <ul>
       📧Email - designng11@gmail.com
